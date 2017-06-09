@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+export PYTHONPATH=/sdcard/com.googlecode.pythonforandroid/extras/python:/sdcard/com.googlecode.pythonforandroid/files/python/lib/python26.zip
+export PYTHONHOME=/data/data/com.googlecode.pythonforandroid/files/python/ 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/data/data/com.googlecode.pythonforandroid/files/python/lib/
+exec /data/data/com.googlecode.pythonforandroid/files/python/bin/python "$@"

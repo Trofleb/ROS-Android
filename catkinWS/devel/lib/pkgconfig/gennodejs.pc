@@ -1,0 +1,8 @@
+prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel
+
+Name: gennodejs
+Description: Description of gennodejs
+Version: 2.0.1
+Cflags: 
+Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/lib 
+Requires: genmsg

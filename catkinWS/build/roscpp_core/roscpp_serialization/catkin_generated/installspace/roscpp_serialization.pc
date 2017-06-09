@@ -1,0 +1,8 @@
+prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/install
+
+Name: roscpp_serialization
+Description: Description of roscpp_serialization
+Version: 0.6.3
+Cflags: -I/Users/nicolas/Desktop/bachelorProj/catkinWS/install/include
+Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/install/lib -lroscpp_serialization
+Requires: cpp_common roscpp_traits rostime

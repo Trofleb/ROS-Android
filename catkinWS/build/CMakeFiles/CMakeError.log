@@ -1,0 +1,20 @@
+Performing C++ SOURCE FILE Test HAVE_CXXABI_H failed with the following output:
+Change Dir: /Users/nicolas/Desktop/bachelorProj/catkinWS/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_48368/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_48368.dir/build.make CMakeFiles/cmTC_48368.dir/build
+Building CXX object CMakeFiles/cmTC_48368.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -DHAVE_CXXABI_H   -o CMakeFiles/cmTC_48368.dir/src.cxx.o -c /Users/nicolas/Desktop/bachelorProj/catkinWS/build/CMakeFiles/CMakeTmp/src.cxx
+/Users/nicolas/Desktop/bachelorProj/catkinWS/build/CMakeFiles/CMakeTmp/src.cxx:2:9: error: C++ requires a type specifier for all declarations
+intmain(intargc,char**argv){}
+        ^
+/Users/nicolas/Desktop/bachelorProj/catkinWS/build/CMakeFiles/CMakeTmp/src.cxx:2:1: error: C++ requires a type specifier for all declarations
+intmain(intargc,char**argv){}
+^
+2 errors generated.
+make[1]: *** [CMakeFiles/cmTC_48368.dir/src.cxx.o] Error 1
+make: *** [cmTC_48368/fast] Error 2
+
+Source file was:
+#include<cxxabi.h>
+intmain(intargc,char**argv){}

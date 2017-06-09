@@ -1,0 +1,3 @@
+#!/data/local/python
+
+print("hello world")

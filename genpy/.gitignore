@@ -1,0 +1,4 @@
+*.pyc
+._*
+*~
+src/genpy/msg

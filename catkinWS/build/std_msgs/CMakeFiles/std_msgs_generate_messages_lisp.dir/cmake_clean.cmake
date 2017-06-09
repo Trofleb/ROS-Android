@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/std_msgs_generate_messages_lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Float64MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int8.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt64.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Empty.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt64MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt32.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Float64.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Bool.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int32MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt8MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int64MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt16MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt16.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/ColorRGBA.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Duration.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int64.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Time.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/String.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Char.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Float32MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Header.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/MultiArrayLayout.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int16MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/ByteMultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int32.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int8MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/MultiArrayDimension.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt32MultiArray.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/UInt8.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Float32.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Int16.lisp"
+  "/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/share/common-lisp/ros/std_msgs/msg/Byte.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/std_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

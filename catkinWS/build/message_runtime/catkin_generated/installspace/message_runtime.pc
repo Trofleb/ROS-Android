@@ -1,0 +1,8 @@
+prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/install
+
+Name: message_runtime
+Description: Description of message_runtime
+Version: 0.4.12
+Cflags: 
+Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/install/lib 
+Requires: cpp_common roscpp_serialization roscpp_traits rostime

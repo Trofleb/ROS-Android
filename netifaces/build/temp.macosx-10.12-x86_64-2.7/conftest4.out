@@ -1,0 +1,82 @@
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-2.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-2.o
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-3.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-3.o
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-4.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-4.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-4.c:5:26: fatal error: 'netash/ash.h' file not found
+                #include <netash/ash.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-5.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-5.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-5.c:5:26: fatal error: 'netatalk/at.h' file not found
+                #include <netatalk/at.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-6.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-6.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-6.c:5:26: fatal error: 'netax25/ax25.h' file not found
+                #include <netax25/ax25.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-7.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-7.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-7.c:5:26: fatal error: 'neteconet/ec.h' file not found
+                #include <neteconet/ec.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-8.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-8.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-8.c:5:26: fatal error: 'netipx/ipx.h' file not found
+                #include <netipx/ipx.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-9.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-9.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-9.c:5:26: fatal error: 'netpacket/packet.h' file not found
+                #include <netpacket/packet.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-10.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-10.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-10.c:5:26: fatal error: 'netrose/rose.h' file not found
+                #include <netrose/rose.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-11.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-11.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-11.c:5:26: fatal error: 'linux/irda.h' file not found
+                #include <linux/irda.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-12.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-12.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-12.c:5:26: fatal error: 'linux/atm.h' file not found
+                #include <linux/atm.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-13.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-13.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-13.c:5:26: fatal error: 'linux/llc.h' file not found
+                #include <linux/llc.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-14.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-14.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-14.c:5:26: fatal error: 'linux/tipc.h' file not found
+                #include <linux/tipc.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-15.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-15.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-15.c:5:26: fatal error: 'linux/dn.h' file not found
+                #include <linux/dn.h>
+                         ^
+1 error generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -DHAVE_NET_IF_DL_H=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-16.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-16.o
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -DHAVE_NET_IF_DL_H=1 -DHAVE_SOCKADDR_SA_LEN=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-17.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-17.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-17.c:7:32: warning: unused variable 'msg' [-Wunused-variable]
+              struct rt_msghdr msg;
+                               ^
+build/temp.macosx-10.12-x86_64-2.7/conftest-17.c:8:19: warning: unused variable 's' [-Wunused-variable]
+              int s = socket (PF_ROUTE, SOCK_RAW, 0);
+                  ^
+2 warnings generated.
+clang build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-17.o -L/usr/local/lib -L/usr/local/opt/openssl/lib -L/usr/local/opt/sqlite/lib -o build/temp.macosx-10.12-x86_64-2.7/conftest
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -DHAVE_NET_IF_DL_H=1 -DHAVE_SOCKADDR_SA_LEN=1 -DHAVE_PF_ROUTE=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-18.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-18.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-18.c:8:19: warning: unused variable 'mib' [-Wunused-variable]
+              int mib[] = { CTL_NET, PF_ROUTE, 0, AF_INET, NET_RT_FLAGS,
+                  ^
+1 warning generated.
+clang -fno-strict-aliasing -fno-common -dynamic -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -DHAVE_GETIFADDRS=1 -DHAVE_GETNAMEINFO=1 -DHAVE_SIOCGIFAFLAG_IN6=1 -DHAVE_IPV6_SOCKET_IOCTLS=1 -DHAVE_NET_IF_DL_H=1 -DHAVE_SOCKADDR_SA_LEN=1 -DHAVE_PF_ROUTE=1 -DHAVE_SYSCTL_CTL_NET=1 -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.12-x86_64-2.7/conftest-19.c -o build/temp.macosx-10.12-x86_64-2.7/build/temp.macosx-10.12-x86_64-2.7/conftest-19.o
+build/temp.macosx-10.12-x86_64-2.7/conftest-19.c:2:22: fatal error: 'asm/types.h' file not found
+            #include <asm/types.h>
+                     ^
+1 error generated.

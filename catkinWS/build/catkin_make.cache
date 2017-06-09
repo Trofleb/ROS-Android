@@ -1,0 +1,2 @@
+catkin:gencpp:geneus:genlisp:genmsg:gennodejs:genpy:message_generation:message_runtime:roscpp_core/cpp_common:roscpp_core/roscpp_core:roscpp_core/roscpp_serialization:roscpp_core/roscpp_traits:roscpp_core/rostime:rosgraph_msgs:std_msgs
+-DCATKIN_DEVEL_PREFIX=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel -DCMAKE_INSTALL_PREFIX=/Users/nicolas/Desktop/bachelorProj/catkinWS/install -G Unix Makefiles

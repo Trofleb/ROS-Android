@@ -1,0 +1,8 @@
+prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/install
+
+Name: geneus
+Description: Description of geneus
+Version: 2.2.6
+Cflags: 
+Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/install/lib 
+Requires: genmsg

@@ -1,0 +1,8 @@
+prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel
+
+Name: std_msgs
+Description: Description of std_msgs
+Version: 0.5.11
+Cflags: -I/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/include -I/Users/nicolas/Desktop/bachelorProj/catkinWS/src/std_msgs/include
+Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/lib 
+Requires: message_runtime
