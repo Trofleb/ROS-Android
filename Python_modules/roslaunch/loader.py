@@ -477,7 +477,6 @@ class Loader(object):
             with open(binfile, 'rb') as f:
                 return Binary(f.read())
         elif command is not None:
-            print("... executing command param [%s]" % command)
             try:
                 if type(command) == unicode:
                     command = command.encode('utf-8') #attempt to force to string for shlex/subprocess

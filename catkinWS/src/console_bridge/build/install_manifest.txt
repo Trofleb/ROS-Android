@@ -1,7 +1,0 @@
-/usr/local/lib/libconsole_bridge.0.3.dylib
-/usr/local/lib/libconsole_bridge.dylib
-/usr/local/include/console_bridge/console.h
-/usr/local/include/console_bridge_export.h
-/usr/local/lib/console_bridge/cmake/console_bridge-config.cmake
-/usr/local/lib/console_bridge/cmake/console_bridge-config-version.cmake
-/usr/local/lib/pkgconfig/console_bridge.pc
