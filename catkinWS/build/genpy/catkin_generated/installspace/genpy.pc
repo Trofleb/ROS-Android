@@ -1,8 +1,0 @@
-prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/install
-
-Name: genpy
-Description: Description of genpy
-Version: 0.6.5
-Cflags: 
-Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/install/lib 
-Requires: genmsg

@@ -1,8 +1,0 @@
-prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel
-
-Name: roscpp_traits
-Description: Description of roscpp_traits
-Version: 0.6.3
-Cflags: -I/Users/nicolas/Desktop/bachelorProj/catkinWS/src/roscpp_core/roscpp_traits/include
-Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/lib 
-Requires: cpp_common rostime

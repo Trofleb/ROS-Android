@@ -1,8 +1,0 @@
-prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel
-
-Name: cpp_common
-Description: Description of cpp_common
-Version: 0.6.3
-Cflags: -I/Users/nicolas/Desktop/bachelorProj/catkinWS/src/roscpp_core/cpp_common/include -I/usr/local/include
-Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/lib -lcpp_common -l:/usr/local/lib/libboost_system-mt.dylib -l:/usr/local/lib/libboost_thread-mt.dylib -l:/usr/local/lib/libboost_chrono-mt.dylib -l:/usr/local/lib/libboost_date_time-mt.dylib -l:/usr/local/lib/libboost_atomic-mt.dylib -l:/usr/local/lib/libconsole_bridge.dylib
-Requires: 

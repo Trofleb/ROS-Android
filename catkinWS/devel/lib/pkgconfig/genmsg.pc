@@ -1,8 +1,0 @@
-prefix=/Users/nicolas/Desktop/bachelorProj/catkinWS/devel
-
-Name: genmsg
-Description: Description of genmsg
-Version: 0.5.8
-Cflags: 
-Libs: -L/Users/nicolas/Desktop/bachelorProj/catkinWS/devel/lib 
-Requires: 
